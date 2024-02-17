@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://twitter.com/siddheshwar_45" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshwar_45?logo=twitter&style=for-the-badge" alt="siddheshwar_45" /></a> </p>
 
 
-
 - 🌱 I’m currently learning **HTML | CSS | JavaScript | Python**
 
 - 📫 How to reach me **siddheshwarkoli10@gmail.com**
