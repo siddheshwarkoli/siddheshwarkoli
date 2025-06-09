@@ -88,7 +88,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 #### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 | **Machine Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
 |:-------------------------------|:----------------:|:-----------------------------------------------|
-| FIFA 20 Clustering             | [View](https://github.com/siddheshwarkoli/Fifa-20-Machine-Learning-Clusterin)           | `Machine Learning`, `Python`                   |
+| FIFA 20 Clustering             | [View](https://github.com/siddheshwarkoli/Fifa-20-Machine-Learning-Clustering-)           | `Machine Learning`, `Python`                   |
 
 
 
