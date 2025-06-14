@@ -117,7 +117,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warkoli&show_icons=true&locale=en&layout=compact" alt="siddheshwarkoli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshwarkoli&show_icons=true&locale=en&layout=compact" alt="siddheshwarkoli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshwarkoli&show_icons=true&locale=en" alt="siddheshwarkoli" /></p>
 
