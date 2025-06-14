@@ -1,7 +1,7 @@
 ![logo](https://github.com/siddheshwarkoli/siddheshwarkoli/blob/main/Siddheshwar%20koli%20(1).png)
 <h1 align="center">Hi 👋, I'm Siddheshwar Koli</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" height="400" width="500" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="coding" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshwarkoli&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshwarkoli" /> </p>
 <p align="left"> <a href="https://twitter.com/siddheshwar_45" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshwar_45?logo=twitter&style=for-the-badge" alt="siddheshwar_45" /></a> </p>
 
@@ -117,7 +117,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshwarkoli&show_icons=true&locale=en&layout=compact" alt="siddheshwarkoli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warkoli&show_icons=true&locale=en&layout=compact" alt="siddheshwarkoli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshwarkoli&show_icons=true&locale=en" alt="siddheshwarkoli" /></p>
 
