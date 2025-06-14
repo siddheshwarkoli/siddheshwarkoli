@@ -76,7 +76,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00818e?style=for-the-badge&logo=Reinforcement%20Learning&logoColor=white)
 
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawarMukesh&bg_color=ffffff&color=000000&line=3d9bf1&point=87cefa&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshwarkoli&bg_color=ffffff&color=000000&line=3d9bf1&point=87cefa&area=true&hide_border=true&hide_title=true" />
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
