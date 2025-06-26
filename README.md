@@ -92,6 +92,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | Chance of Admition (Regression)            | [View](https://github.com/siddheshwarkoli/Chances-Of-Admission-Regression)           | `Machine Learning`, `Python`                   |
 | Heart Disease (Classification)             | [View](https://github.com/siddheshwarkoli/Heart-Disease-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Employee Performance Analysis (Classification)             | [View](https://github.com/siddheshwarkoli/Employee-Performance-Analysis-Classification)           | `Machine Learning`, `Python`                   |
+| Liver Patient Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Liver-Patient-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 
 
 
