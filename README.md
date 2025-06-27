@@ -94,7 +94,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | Insurance Cost Prediction (Regression)             | [View](https://github.com/siddheshwarkoli/Insurance-Cost-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Employee Performance Analysis (Classification)             | [View](https://github.com/siddheshwarkoli/Employee-Performance-Analysis-Classification)           | `Machine Learning`, `Python`                   |
 | Liver Patient Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Liver-Patient-Prediction-Classification)           | `Machine Learning`, `Python`                   |
-
+| Customer Transaction Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Customer-Transaction-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 
 
 
