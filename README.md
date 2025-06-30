@@ -93,6 +93,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | Heart Disease (Classification)             | [View](https://github.com/siddheshwarkoli/Heart-Disease-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Insurance Cost Prediction (Regression)             | [View](https://github.com/siddheshwarkoli/Insurance-Cost-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Employee Performance Analysis (Classification)             | [View](https://github.com/siddheshwarkoli/Employee-Performance-Analysis-Classification)           | `Machine Learning`, `Python`                   |
+| Flight Price Prediction (Regression)             | [View](https://github.com/siddheshwarkoli/Flight-Price-prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Liver Patient Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Liver-Patient-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Customer Transaction Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Customer-Transaction-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Movie Recommendation System             | [View](https://github.com/siddheshwarkoli/Movie-Recommendation-System-Machine_Learning)           | `Machine Learning`, `Python`                   |
