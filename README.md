@@ -91,6 +91,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | FIFA 20 (Clustering)             | [View](https://github.com/siddheshwarkoli/Fifa-20-Machine-Learning-Clustering-)           | `Machine Learning`, `Python`                   |
 | Chance of Admition (Regression)            | [View](https://github.com/siddheshwarkoli/Chances-Of-Admission-Regression)           | `Machine Learning`, `Python`                   |
 | Heart Disease (Classification)             | [View](https://github.com/siddheshwarkoli/Heart-Disease-Prediction-Classification)           | `Machine Learning`, `Python`                   |
+| Healthy Lifestyle City (Clustering)             | [View](https://github.com/siddheshwarkoli/Healthy-Lifestyle-City-Clustering)           | `Machine Learning`, `Python`                   |
 | Insurance Cost Prediction (Regression)             | [View](https://github.com/siddheshwarkoli/Insurance-Cost-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Employee Performance Analysis (Classification)             | [View](https://github.com/siddheshwarkoli/Employee-Performance-Analysis-Classification)           | `Machine Learning`, `Python`                   |
 | Flight Price Prediction (Regression)             | [View](https://github.com/siddheshwarkoli/Flight-Price-prediction-Regression)           | `Machine Learning`, `Python`                   |
