@@ -98,6 +98,7 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | Liver Patient Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Liver-Patient-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Chance of Admition (Regression)            | [View](https://github.com/siddheshwarkoli/Chances-Of-Admission-Regression)           | `Machine Learning`, `Python`                   |
 | Customer Transaction Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Customer-Transaction-Prediction-Classification)           | `Machine Learning`, `Python`                   |
+| Bike Rental Prediction (Regression)            | [View](https://github.com/siddheshwarkoli/Bike-Rental-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Movie Recommendation System             | [View](https://github.com/siddheshwarkoli/Movie-Recommendation-System-Machine_Learning)           | `Machine Learning`, `Python`                   |
 
 
