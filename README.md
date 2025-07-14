@@ -99,6 +99,8 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 | Chance of Admition (Regression)            | [View](https://github.com/siddheshwarkoli/Chances-Of-Admission-Regression)           | `Machine Learning`, `Python`                   |
 | Customer Transaction Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Customer-Transaction-Prediction-Classification)           | `Machine Learning`, `Python`                   |
 | Bike Rental Prediction (Regression)            | [View](https://github.com/siddheshwarkoli/Bike-Rental-Prediction-Regression)           | `Machine Learning`, `Python`                   |
+| Breast Cancer Prediction (Classification)             | [View](https://github.com/siddheshwarkoli/Breast-Cancer-Prediction-Classification)           | `Machine Learning`, `Python`                   |
+| Car Symboling Prediction (Regression)            | [View](https://github.com/siddheshwarkoli/Car-Symboling-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Movie Recommendation System             | [View](https://github.com/siddheshwarkoli/Movie-Recommendation-System-Machine_Learning)           | `Machine Learning`, `Python`                   |
 
 
