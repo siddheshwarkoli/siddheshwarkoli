@@ -88,7 +88,8 @@ I'm **Siddheshwar Koli**, completed **Master's in Computer Application at DYPIME
 #### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 | **Machine Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
 |:-------------------------------|:----------------:|:-----------------------------------------------|
-| Bank Good Credit (Classification)             | [View](https://github.com/siddheshwarkoli/Bank-Good-Credit-Classification)           | `Machine Learning`, `Python`                   |
+| Bank Good Credit (Classification) (Client Project)            | [View](https://github.com/siddheshwarkoli/Bank-Good-Credit-Classification)           | `Machine Learning`, `Python`                   |
+| ITSM ABC Tech (Classification) (Client Project)           | [View](https://github.com/siddheshwarkoli/ITSM-ABC-Tech-Classification)           | `Machine Learning`, `Python`                   |
 | FIFA 20 (Clustering)             | [View](https://github.com/siddheshwarkoli/Fifa-20-Machine-Learning-Clustering-)           | `Machine Learning`, `Python`                   |
 | Texas Salary Prediction (Regression)            | [View](https://github.com/siddheshwarkoli/Texas-Employee-Salary-Prediction-Regression)           | `Machine Learning`, `Python`                   |
 | Heart Disease (Classification)             | [View](https://github.com/siddheshwarkoli/Heart-Disease-Prediction-Classification)           | `Machine Learning`, `Python`                   |
